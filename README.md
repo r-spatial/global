@@ -1,1 +1,3 @@
-# global
+# global: analysing spatial data globally
+
+
