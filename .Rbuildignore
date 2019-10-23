@@ -1,0 +1,14 @@
+.travis.yml
+proposal
+cleanup
+config.log
+config.status
+TODO
+^windows
+^appveyor\.yml$
+^.*\.Rproj$
+^\.Rproj\.user$
+README.md
+CONDUCT.md
+^codecov\.yml$
+tic.R
